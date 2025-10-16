@@ -1,3 +1,5 @@
+![logo](https://github.com/ambujshukla04/Ambujshukla-/blob/main/Data%20Analyst%20%20Developeragency.png)
+
 <h1 align="center">Hi 👋, I'm Ambuj Shukla</h1>
 <h3 align="center">Data Analyst or Software Developer skilled in Python, C++, and AI with experience in building data-driven applications.</h3>
 
